@@ -23,7 +23,7 @@ TrackMoney is a simple console application for tracking personal expenses and in
 
 1. Clone the repository or download the source code.
 2. Open the solution in Visual Studio or your preferred C# IDE.
-3. Build the solution to restore NuGet packages and compile the code.
+3. Build the solution and compile the code.
 
 ## Usage
 
